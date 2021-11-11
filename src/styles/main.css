@@ -1,0 +1,37 @@
+
+
+
+.authorhtml {
+    display: flex;
+    justify-content: center;
+    font-size: 14pt;
+    padding: 0.4em;
+    
+}
+.letterhtml {
+    display: flex;
+    justify-content: center;
+    font-size: 14pt;
+    padding: 0.4em;
+}
+
+.topichtml {
+    display: flex;
+    justify-content: center;
+    padding: 0.6em;
+    margin-bottom: 2em;
+    font-size: 11pt;
+}
+.recipname {
+    display: flex;
+    justify-content: center;
+    font-size: 14pt;
+    padding: 0.4em;
+}
+.articleClass {
+    display: flex;
+    justify-content: center;
+    font-size: 14pt;
+    padding: 0.4em;
+}
+
